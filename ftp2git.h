@@ -20,7 +20,7 @@
 #define TREEOUTPUT_FILENAME "treeOutput.txt" // The tree of the Ftp will be outputed on this file
 
 // PHPMYADMIN
-#define PHPMYADMIN_URL      "" // For example https://yourwebsite.com/phpmyadmin (the connection page of phpyadmin)
+#define PHPMYADMIN_URL      "" // For example https://yourwebsite.com/phpmyadmin/ (the connection page of phpyadmin, WARNING: YOU MUST PUT THE / at the end of the link)
 #define PHPMYADMIN_USER     ""
 #define PHPMYADMIN_PASSWORD ""
 #define PHPMYADMIN_DATABASE_TO_EXPORT   ""
